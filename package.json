@@ -1,0 +1,13 @@
+{
+  "name": "generate-avataaars",
+  "version": "0.0.1",
+  "description": "An avataaars generator api base node.",
+  "main": "index.js",
+  "author": "Ruby Rose",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
